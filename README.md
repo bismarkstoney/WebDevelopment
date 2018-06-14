@@ -1,5 +1,5 @@
 # WebDevelopment
-This includes differnt home pages for some popular websites.
-Fell free to play around with it 
-It's only for learning purpose.
+This includes differnt web technologies HTML,CSS, JAVASCRIPTS, PHP, DJANGO
+This also have personal projects I have implemented
+Feel free to use the code in your project. But you can also give some stars
 
